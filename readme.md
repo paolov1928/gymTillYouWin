@@ -1,1 +1,1 @@
-This app will be awesome
+This app will be awesome!
